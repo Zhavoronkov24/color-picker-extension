@@ -1,4 +1,4 @@
-<h1 align="left">🎨 Color Picker</h1>
+<h1 align="left">🎨 Pick This Color!</h1>
 <h8 align="left">Расширение для Chrome</h8>
 
 <h5 align="left">Приложение для определения и отображения hex и rgb кодов цветов</h5>
